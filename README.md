@@ -2,6 +2,8 @@
 
 > A Vue.js event bus example project
 
+![결과화면](doc/eventbus.gif)
+
 ## Build Setup
 
 ``` bash
